@@ -1,6 +1,6 @@
 Git global setup
-git config --global user.name "Virendra Verma"
-git config --global user.email "virendra@inventics.tech"
+git config --global user.name " "
+git config --global user.email " "
 
 Create a new repository
 git clone http://simplifyingwork.in/shopify/book.git
